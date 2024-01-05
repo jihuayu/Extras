@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8.8-x64.zip",
+            "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8.8-Beta-x64.zip",
             "hash": "sha1:07681ceeb45dc4f8acbc1c2f3731773cef82162d"
         },
         "32bit": {
-            "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8.8-x86.zip",
+            "url": "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8.8-Beta-x86.zip",
             "hash": "sha1:c198dfa47010e6591e51299d985d7411e80d1f54"
         }
     },
